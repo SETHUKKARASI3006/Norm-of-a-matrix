@@ -41,17 +41,17 @@ print("{:.2f}".format(norm))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>![output1](1.png)
+<br>![1](https://github.com/SETHUKKARASI3006/Norm-of-a-matrix/assets/144979338/62ff153a-b6a4-4afb-beff-3722156be3d9)
 <br>
 <br>
 
 ### 2-Norm of a Matrix
-<br>![output2](2.png)
+<br>![2](https://github.com/SETHUKKARASI3006/Norm-of-a-matrix/assets/144979338/0cdb1366-04e2-47d6-ba0e-272481dedb32)
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
-<br>![output3](3.png)
+<br>![3](https://github.com/SETHUKKARASI3006/Norm-of-a-matrix/assets/144979338/3cf1ac71-a717-4a7f-a682-b4aabccc026f)
 <br>
 <br>
 
